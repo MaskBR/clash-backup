@@ -40,7 +40,7 @@
 You can build from source:
 
 ```sh
-go get -u -v github.com/Elegybackup/clash-backup
+go get -u -v github.com/MaskBR/clash-backup
 ```
 
 Pre-built binaries are available: [release](https://github.com/Elegybackup/clash-backup)
